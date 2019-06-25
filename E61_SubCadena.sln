@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E61_SubCadena", "E61_SubCadena\E61_SubCadena.csproj", "{C72CEAB1-D7E2-4D68-B58C-2C0AC766B434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72CEAB1-D7E2-4D68-B58C-2C0AC766B434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72CEAB1-D7E2-4D68-B58C-2C0AC766B434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72CEAB1-D7E2-4D68-B58C-2C0AC766B434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72CEAB1-D7E2-4D68-B58C-2C0AC766B434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4ADFAC-DCBA-4C84-BD21-748DE4D01173}
+	EndGlobalSection
+EndGlobal

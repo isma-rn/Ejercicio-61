@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\bin\Debug\E61_SubCadena.exe.config
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\bin\Debug\E61_SubCadena.exe
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\bin\Debug\E61_SubCadena.pdb
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\obj\Debug\E61_SubCadena.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\obj\Debug\E61_SubCadena.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\obj\Debug\E61_SubCadena.exe
+C:\Users\Yesica Moreno\source\repoS11\E61_SubCadena\E61_SubCadena\obj\Debug\E61_SubCadena.pdb
